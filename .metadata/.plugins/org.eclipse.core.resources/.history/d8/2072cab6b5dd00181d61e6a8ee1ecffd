@@ -1,0 +1,29 @@
+package test;
+
+import model.PrisKategori;
+import model.Produkt;
+import model.ProduktKategori;
+
+public class CRUDProduktTest {
+	
+	private static ProduktKategori pk0; 
+	PrisKategori PrisK0;
+	PrisKategori PrisK1; 
+	Produkt p0; 
+	
+	@BeforeClass
+	
+	
+	
+
+	// -------------------------------------------------------------------------------------------------------------------------
+	// Test cases for createProdukt
+
+	/* For at se test case for createProdukt henvises der til klassen ControllerCreateProduktTest*/
+	
+	// -------------------------------------------------------------------------------------------------------------------------
+	// Test cases for updateProdukt
+	
+	/* For at se test case for updateProdukt henvises der til klassen ControllerUpdateProduktTest*/
+	
+}

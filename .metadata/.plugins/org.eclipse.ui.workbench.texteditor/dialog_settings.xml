@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="248" key="DIALOG_X_ORIGIN"/>
+		<item value="418" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="setNavn" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="setNavn"/>
+			<item value="setPris"/>
+			<item value="removeProdukt(Produkt produkt)"/>
+			<item value="getprodukt"/>
+			<item value="getprodukter"/>
+			<item value="remove"/>
+			<item value="getProdukt"/>
+			<item value="getPro"/>
+			<item value="delete"/>
+			<item value="getudlejningsSalg"/>
+			<item value="getudlejningssalg"/>
+			<item value="getProdukterIKategori"/>
+			<item value="getUdlejningsProdukterIProduktKategori"/>
+			<item value="getudlejningsprod"/>
+			<item value="getUdlejligeProduktKategorier"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="284" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="391" key="DIALOG_HEIGHT"/>
+		<item value="1072" key="DIALOG_X_ORIGIN"/>
+		<item value="293" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

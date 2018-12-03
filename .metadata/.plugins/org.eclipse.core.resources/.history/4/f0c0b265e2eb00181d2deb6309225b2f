@@ -1,0 +1,8 @@
+package opgave1;
+import opgave1.ArrayStack;
+
+public class Opgave2_Parantes {
+	
+	public static boolean checkParenteses(String s)
+	
+}

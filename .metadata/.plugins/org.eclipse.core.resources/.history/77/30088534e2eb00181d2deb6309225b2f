@@ -1,0 +1,6 @@
+package opgave1;
+
+public class Opgave2_Parantes implements ArrayStack<T>{
+	String T;
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;opgave1.Common&apos; to &apos;Indgang&apos;&#x0D;&#x0A;- Original project: &apos;Opgave1&apos;&#x0D;&#x0A;- Original element: &apos;opgave1.Common&apos;&#x0D;&#x0A;- Renamed element: &apos;opgave1.Indgang&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Common&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/Opgave1&lt;opgave1{Common.java[Common" matchStrategy="1" name="Indgang" qualified="false" references="true" similarDeclarations="false" stamp="1543822766147" textual="false" version="1.0"/>
+</session>

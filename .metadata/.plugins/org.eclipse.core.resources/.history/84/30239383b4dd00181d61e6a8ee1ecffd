@@ -1,0 +1,19 @@
+package test;
+
+
+
+public class CRUDProduktTest {
+	
+	
+
+	// -------------------------------------------------------------------------------------------------------------------------
+	// Test cases for createProdukt
+
+	/* For at se test case for createProdukt henvises der til klassen ControllerCreateProduktTest*/
+	
+	// -------------------------------------------------------------------------------------------------------------------------
+	// Test cases for updateProdukt
+	
+	/* For at se test case for updateProdukt henvises der til klassen ControllerUpdateProduktTest*/
+	
+}

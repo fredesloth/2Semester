@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.junit.After"/>
+<fullyQualifiedTypeName name="org.junit.Before"/>
+<fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+<fullyQualifiedTypeName name="model.UdlejningsProdukt"/>
+<fullyQualifiedTypeName name="model.PrisKategori"/>
+<fullyQualifiedTypeName name="model.BetalingsMetode"/>
+<fullyQualifiedTypeName name="model.UdlejningsSalg"/>
+<fullyQualifiedTypeName name="test.ControllerGetUdlejningsSalgTest"/>
+<fullyQualifiedTypeName name="controller.Controller"/>
+<fullyQualifiedTypeName name="model.Salg"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="storage.Storage"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="model.Produkt"/>
+<fullyQualifiedTypeName name="model.ProduktKategori"/>
+</qualifiedTypeNameHistroy>
